@@ -3,7 +3,7 @@ from sqlalchemy import func
 from translate.extensions import db
 from .base_model import BaseModel
 
-
+#flashcard
 class User(BaseModel):
     email = db.Column("email", db.String(100))
     user_name = db.Column("user_name", db.String(100), unique=True)

@@ -1,5 +1,4 @@
-from sqlalchemy import func
-
+from sqlalchemy import func 
 from translate.extensions import db
 from .base_model import BaseModel
 
