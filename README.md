@@ -2,6 +2,9 @@
 
 A full-stack portfolio project that demonstrates secure authentication, interactive flashcards, and translation features in a language learning web app. The backend is powered by Flask and PostgreSQL with migrations managed through Alembic, while the frontend uses Vue.js with Auth0 integration.
 
+## Screenshot
+![App Screenshot](./screenshot.png)
+
 ## Features
 
 🔑 Authentication with Auth0 (secure login/logout, profile handling).  
@@ -72,11 +75,5 @@ Auth0 requires secure origins.
 ❌ Fails on http://<LAN-IP>:3000 unless HTTPS is configured
 
 Some deprecated dependencies may show warnings (e.g., sass-loader, legacy-js-api).
-
-## Screenshot of home page
-![App Screenshot](./screenshot.png)
-
-
-
 
 
