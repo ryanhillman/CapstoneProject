@@ -82,27 +82,6 @@ Local: http://localhost:3000
 
 Network: http://<your-ip>:3000 ⚠️ (may show Auth0 error: requires HTTPS/secure origin)
 
-Project Structure
-CapstoneProject/
-│── backend/        # Flask backend
-│   ├── manage.py
-│   ├── translate/
-│   │   ├── __init__.py
-│   │   ├── app.py
-│   │   ├── config.py
-│   │   └── extensions.py
-│   └── migrations/  # Alembic migrations
-│
-│── front-end/      # Vue frontend
-│   ├── src/
-│   │   ├── views/ (Dashboard, Lessons, Play, Settings, etc.)
-│   │   ├── router/
-│   │   └── auth/ (Auth0 wrapper and guard)
-│   ├── public/
-│   └── package.json
-│
-└── screenshot.png  # Demo screenshot
-
 Known Limitations
 
 Auth0 requires secure origins.
@@ -112,6 +91,8 @@ Auth0 requires secure origins.
 ❌ Fails on http://<LAN-IP>:3000 unless HTTPS is configured
 
 Some deprecated dependencies may show warnings (e.g., sass-loader, legacy-js-api).
+
+SCREENSHOT
 
 ![App Screenshot](./screenshot.png)
 
