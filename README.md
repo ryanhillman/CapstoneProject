@@ -41,8 +41,8 @@ Auth0 SPA SDK
 
 Sass for styling
 
-Installation
-Backend
+# Installation
+# Backend
 # Clone repository
 git clone https://github.com/ryanhillman/CapstoneProject.git
 cd CapstoneProject/backend
@@ -65,7 +65,7 @@ python manage.py runserver
 The backend will run on http://127.0.0.1:5000
 .
 
-Frontend
+# Frontend
 cd CapstoneProject/front-end
 
 # Install dependencies
