@@ -40,8 +40,12 @@ cd capstone-project/backend
 
 #### Create and activate virtual environment
 python3.9 -m venv venv
-venv\Scripts\activate   # Windows
-source venv/bin/activate  # Mac/Linux
+
+##### Windows
+venv\Scripts\activate
+
+#####Mac/Linux
+source venv/bin/activate
 
 #### Install dependencies
 pip install -r requirements.txt
@@ -53,6 +57,7 @@ python manage.py db upgrade
 python manage.py runserver
 
 The backend will run on: 
+
 http://127.0.0.1:5000
 
 ### Frontend
