@@ -43,7 +43,7 @@ Sass for styling
 
 Installation
 Backend
-# Clone repo
+# Clone repository
 git clone https://github.com/ryanhillman/CapstoneProject.git
 cd CapstoneProject/backend
 
@@ -92,7 +92,7 @@ Auth0 requires secure origins.
 
 Some deprecated dependencies may show warnings (e.g., sass-loader, legacy-js-api).
 
-SCREENSHOT
+# Screenshot of Home Page
 
 ![App Screenshot](./screenshot.png)
 
