@@ -1,8 +1,8 @@
-CapstoneProject
+# CapstoneProject
 
 A full-stack demo project showcasing a language learning web app with authentication, flashcards, and translation features. This project is designed as a professional portfolio piece to highlight skills in Flask (Python), Vue.js, and PostgreSQL.
 
-Features
+# Features
 
 🔑 Authentication with Auth0 (secure login/logout, profile handling).
 
@@ -16,7 +16,7 @@ Features
 
 🎯 Demo ready: local environment spins up with python manage.py runserver (backend) and npm run serve (frontend).
 
-Tech Stack
+# Tech Stack
 Backend
 
 Python 3.9
