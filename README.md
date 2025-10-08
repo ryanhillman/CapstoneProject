@@ -80,7 +80,9 @@ Network: http://<your-ip>:3000
 ## ⚠️ Known Limitations
 
 Auth0 requires secure origins.
+
 Works with http://localhost:3000
+
 Fails on http://<LAN-IP>:3000 unless HTTPS is configured
 
 Some deprecated dependencies may show warnings (e.g., sass-loader, legacy-js-api).
