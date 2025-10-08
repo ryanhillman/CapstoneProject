@@ -52,7 +52,8 @@ python manage.py db upgrade
 #### Start backend
 python manage.py runserver
 
-The backend will run on: http://127.0.0.1:5000
+The backend will run on: 
+http://127.0.0.1:5000
 
 ### Frontend
 cd capstone-project/frontend
