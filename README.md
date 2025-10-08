@@ -35,8 +35,8 @@ A full-stack portfolio project that demonstrates secure authentication, interact
 ### Backend
 
 #### Clone repository
-git clone https://github.com/ryanhillman/CapstoneProject.git
-cd CapstoneProject/backend
+git clone https://github.com/ryanhillman/capstone-project.git
+cd capstone-project/backend
 
 #### Create and activate virtual environment
 python3.9 -m venv venv
@@ -54,7 +54,7 @@ python manage.py runserver
 👉 The backend will run on: http://127.0.0.1:5000
 
 ### Frontend
-cd CapstoneProject/front-end
+cd capstone-project/frontend
 
 #### Install dependencies
 npm install
