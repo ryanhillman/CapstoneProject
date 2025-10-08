@@ -1,6 +1,6 @@
 # CapstoneProject
 
-A full-stack demo project showcasing a language learning web app with authentication, flashcards, and translation features. This project is designed as a professional portfolio piece to highlight skills in Flask (Python), Vue.js, and PostgreSQL.
+A full-stack portfolio project that demonstrates secure authentication, interactive flashcards, and translation features in a language learning web app. The backend is powered by Flask and PostgreSQL with migrations managed through Alembic, while the frontend uses Vue.js with Auth0 integration.
 
 ## Features
 
