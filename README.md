@@ -44,7 +44,7 @@ python3.9 -m venv venv
 ##### Windows
 venv\Scripts\activate
 
-#####Mac/Linux
+##### Mac/Linux
 source venv/bin/activate
 
 #### Install dependencies
