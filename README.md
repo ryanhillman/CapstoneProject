@@ -50,7 +50,7 @@ python manage.py db upgrade
 python manage.py runserver
 👉 The backend will run on: http://127.0.0.1:5000
 
-###Frontend
+### Frontend
 cd CapstoneProject/front-end
 
 #### Install dependencies
@@ -65,7 +65,7 @@ Local: http://localhost:3000
 
 Network: http://<your-ip>:3000 ⚠️ (may show Auth0 error: requires HTTPS/secure origin)
 
-##Known Limitations
+## Known Limitations
 
 Auth0 requires secure origins.
 ✅ Works with http://localhost:3000
@@ -73,7 +73,7 @@ Auth0 requires secure origins.
 
 Some deprecated dependencies may show warnings (e.g., sass-loader, legacy-js-api).
 
-##Screenshot of home page
+## Screenshot of home page
 ![App Screenshot](./screenshot.png)
 
 
