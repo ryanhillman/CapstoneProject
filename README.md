@@ -51,6 +51,7 @@ python manage.py db upgrade
 
 #### Start backend
 python manage.py runserver
+
 The backend will run on: http://127.0.0.1:5000
 
 ### Frontend
@@ -62,7 +63,9 @@ npm install
 #### Run development server
 npm run serve
 
-The frontend will run on: Local: http://localhost:3000
+The frontend will run on: 
+
+Local: http://localhost:3000
 (works with Auth0)
 
 Network: http://<your-ip>:3000
