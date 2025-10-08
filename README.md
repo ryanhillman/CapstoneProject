@@ -17,7 +17,7 @@ A full-stack demo project showcasing a language learning web app with authentica
 🎯 Demo ready: local environment spins up with python manage.py runserver (backend) and npm run serve (frontend).
 
 # Tech Stack
-Backend
+**Backend**
 
 Python 3.9
 
@@ -31,7 +31,7 @@ PostgreSQL
 
 Gunicorn (production ready WSGI server)
 
-Frontend
+**Frontend**
 
 Vue.js 2
 
