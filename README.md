@@ -1,6 +1,6 @@
 # 🎓 Capstone Project
 
-A full-stack portfolio project that demonstrates secure authentication, interactive flashcards, and translation features in a language learning web app. The backend is powered by Flask and PostgreSQL with migrations managed through Alembic, while the frontend uses Vue.js with Auth0 integration.
+Conversate is a full-stack portfolio project that demonstrates secure authentication, interactive flashcards, and translation features in a language learning web app. The backend is powered by Flask and PostgreSQL with migrations managed through Alembic, while the frontend uses Vue.js with Auth0 integration.
 
 ## 📷 Screenshot
 ![App Screenshot](./screenshot.png)
