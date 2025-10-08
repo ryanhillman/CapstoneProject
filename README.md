@@ -71,7 +71,7 @@ cd CapstoneProject/front-end
 # Install dependencies
 npm install
 
-# Run dev server
+# Run development server
 npm run serve
 
 
@@ -92,7 +92,7 @@ Auth0 requires secure origins.
 
 Some deprecated dependencies may show warnings (e.g., sass-loader, legacy-js-api).
 
-# Screenshot of Home Page
+# Screenshot of home page
 
 ![App Screenshot](./screenshot.png)
 
